@@ -84,6 +84,7 @@ nav a {
 
 .button {
   border-radius: 4px;
+  border: 1px solid blue;
   color: #05A8AA;
   display: block;
   font-weight: 700;
