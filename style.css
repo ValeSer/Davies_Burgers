@@ -87,6 +87,7 @@ nav a {
   color: #05A8AA;
   display: block;
   font-weight: 700;
+  width: 200px;
 }
 
 .button:hover {
