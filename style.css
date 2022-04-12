@@ -102,6 +102,7 @@ nav a {
 /* Content Nutrition */
 
 ul.nutrition {
+  padding: 20px;
 }
 
 ul.nutrition li {
